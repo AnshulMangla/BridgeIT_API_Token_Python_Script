@@ -3,8 +3,8 @@ import base64
 
 url = "https://id.cisco.com/oauth2/default/v1/token"
 
-client_id = "0oap0ei0pfdhMtuWe5d7"  # Example client ID
-client_secret = "XpMcQ-F7kYmKH_udFbLi2a2wH_nHUYuN1dXBuZJ2sEqQwhSPmOOsbLsl8ujlMb08"  # Example client secret
+client_id = "client_id"  # Example client ID
+client_secret = "client_secret"  # Example client secret
 
 
 
